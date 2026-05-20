@@ -33,14 +33,14 @@
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -1311,6 +1311,11 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-3.4, 8)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
@@ -1470,7 +1475,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        2 hours played
+                                        8 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -1478,7 +1483,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 17 May 2026
+                                        Last played on 19 May 2026
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -1487,32 +1492,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            3 / 57 achievements unlocked
+                                            9 / 57 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABgcEBQj/xAArEAACAgIBAQgCAQUAAAAAAAABAgMEBREAIQYHEhMxQVFhFJEigaGx4fD/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EABkRAQADAQEAAAAAAAAAAAAAAAEAAhEDMf/aAAwDAQACEQMRAD8AEV+7ylgcsZ7V2GbD+crSpWPispHv+QU60dfvX3z1NQrY+HBVIMKkK40RD8fyeqlCNgg++/XfJVke0WDyMBsYrsZYK7KNGMklZuh9Qmi3X50Njmen3nYrAV7KCnlcXDCgEePd4plD/C70QG3sn0GvvXJcX1lGh4Tk9p+7HC4/PT3paDW4Z3MqRO5EcZJ2VCjWxvr1PvzNQvmSs1fGwQ4+GJ/LaKGMKV1/w4nXvZ7NZrGyrmoLOGsKVaMTKZUcHpvxKNr6j1HuOvCbfjSZKS3iLMVmu58mcxHoHA2rddex1+uB1rYI3JqsDnDQJBHav5vHwmXZCWY3eboddR5Z/wA851jDT2YZXpxfk1YXWR7NeIo0agjb+EqNa+T05QMl33X+0GZSnDMtLFrKqNbijQIo92CFSx/fKVVvSRRGY5W3cWRVKs8o8OvoKAOv9+O2yEGyDJ2au5yaRsDHcylaONVlllg8SoSQfC7DwgL6/wBRviHs7at4JmqBGiYOWkTzBIuvYgbIB9fc8R9pe8KnduSYiO/HuuxV4AQg8fvodAdfX3wcLJrSvNKpcu+2I+P9Dg9brXAic6gz/9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABgUHBP/EACsQAAICAQIEBQMFAAAAAAAAAAECAwQRAAUGEiExEyJBUWFxgZEHFDJCof/EABgBAAMBAQAAAAAAAAAAAAAAAAAEBQID/8QAHBEAAgIDAQEAAAAAAAAAAAAAAQIAAwQRITES/9oADAMBAAIRAxEAPwAbX4ki3aztI3a1JHHTYSMZEL+M/X1A7Z5T19tU93hrSS275gdrUcsEddsFcMCzt5ex/jrL4Jbm4TN4dRmZ+3hqTg/A02iobzBVq2pac4kAGFLAAEDAONUa7uEAb3EXxwxBJ1qakL2z0LibfLc552VHeZl8jyOASOYdM5OMfb01YirVGJf91CRy55eYAAe+sTuTbnMFW1tZVeZcMhZSDnv376sbVYI2+za3GezJTy0TQnzTBm68xweo6DPb07aDlPWvYDGV25Fv6WjgrhyW1NxLdeC9KnhRNZBMbpkE4bGAcjqOn+6S8a7lwq0SNsm57bbz1crbXCD5xk/gaAyT3oqT1Ipo3queY154UmjJ9+VgRn5GDoje2Yhnmg4d2hrP9JIJ5q4HvmPmKn6AjU+uzR7H3Tfk5uMd7Id5q1+GSQPyosCFFjGMnAPx6nqc6L1dwteO80U00Ic5Cq5GB6ffXbb4a327MJrNSJfZImUAfXr1+p1Qo8I3Syiy0cCevXmP4GujWfR6ZhayPBP/2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>First Love</div>
-                                                <div class="unlocked">17 May 2026</div>
+                                                <div>On the Board</div>
+                                                <div class="unlocked">19 May 2026</div>
                                             </div>
-                                            <div class="description">Purchase a car from the Autoshow</div>
+                                            <div class="description">Win your first Horizon Festival Race event</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAwUGBAf/xAAyEAABAwIEAQkIAwAAAAAAAAABAgMEBREABhIhExQVIjEyQVFhcQcWJEJSY4GxksHR/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQMC/8QAHBEAAgICAwAAAAAAAAAAAAAAAAECEhETQVGx/9oADAMBAAIRAxEAPwBNnBjNErMdWRw324iZboQXXQ03p1m1go2tbE4KQ+jVyqtUuNvuEvFwn8IBxY+0vKRTmurzp9UWyzIlOLbbaZSpSEk7E6lDY+WJtil5QYluc5z6m5G4aC2VrDZUre/ZB22FsMY5YOWBa5Bo6R8RX3nD9mIf2tQxlPu4w4riS6i8zYWJW22dXn2tsX9KoWUpq+HSqI0+ux6Ut1wm/UCAqwO+DMJYRKZRTKTl2Lq1oGqOFK6Njeyus+l8U1x5fpnY+jm1czRWs2urlBHHkjZSywnpeG1u7+8Z0NZjkMoQqKWnAd3AhCb4tYimoSNEKJHYT4IbSP0MH5xk/KbeijiV5FqIhXKDmF1sgPvEqJJ1uhO/jsTh5l6nZohRVQZMxb9PJ1JZK1q0Kv2gdJIPdse/Dvlsn6j/ACV/uBmQ+espPqL4LSGqP//Z" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAABgEEBQcIAv/EAC8QAAEDAgQDBAsAAAAAAAAAAAECAwQAEQUSITEGB0ETFGHBIjNCUWKBkaGx0eH/xAAXAQADAQAAAAAAAAAAAAAAAAACAwQF/8QAHxEAAQQCAgMAAAAAAAAAAAAAAQACAxEUIQQxEoGR/9oADAMBAAIRAxEAPwCyHOYYXpHfajpsehKvqf1UxgfGjZyJflsvJUcpVcBQPnVMsNqU92b8eQgg2JDR0NOBDQXVNheRwey4CkmqsmFwoEJ+PXS0NmblthxtxwZhosHQg+INrUsTDe7upU3JQWzuAvX+1n+FiM7D3Ud0myWFNm6QlSgB8tqNcO5gPXSnE4DDxGinGRkUfG234ogTWjpLdGQgZHHMBAyLmlAFvQdSbeO4NC/GXH8lma2cAlxEslCUlSQlSQbm977dOnWuHIcxv1rLwHxNkeVMpUBiVbvDLaiNiND9qyouDDE7yA+0U98z3ilFT+N8UlYStzEpcvsQrKVRbJza7g21SaDJmOxnZQfiRnwvckPlFgNOnWjWRwnh8gm6XEX9yqZucvojhzNypCTa196tDg0UKHpTFpPa/9k=" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>First of Many</div>
-                                                <div class="unlocked">17 May 2026</div>
+                                                <div>Welcome to Horizon</div>
+                                                <div class="unlocked">19 May 2026</div>
                                             </div>
-                                            <div class="description">Complete your first Qualifier event</div>
+                                            <div class="description">Earn the Yellow Wristband and join the Horizon Festival</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+1 other...</div>
+                                            <div class="description ellipsis">+7 others...</div>
                                         </div>
                                     </div>
                                 </div>
