@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1102" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1197" class="">
     <defs>
         <style/>
     </defs>
@@ -30,9 +30,9 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -1253,9 +1253,9 @@
                                 <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,5 1.7,6 z"/>
                             </g>
                             <g transform="translate(-8.5, 10.333333333333332)">
-                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.6666666666666665 0,1.6666666666666665 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.6666666666666665 1.7,2.6666666666666665 z"/>
+                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.6666666666666665 0,1.6666666666666665 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.6666666666666665 1.7,2.6666666666666665 z"/>
                             </g>
                             <g transform="translate(-10.2, 12)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -1307,6 +1307,11 @@
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                             <g transform="translate(-1.7, 7)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                            <g transform="translate(-3.4, 8)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
@@ -1366,7 +1371,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="m.427 1.927 1.215 1.215a8.002 8.002 0 1 1-1.6 5.685.75.75 0 1 1 1.493-.154 6.5 6.5 0 1 0 1.18-4.458l1.358 1.358A.25.25 0 0 1 3.896 6H.25A.25.25 0 0 1 0 5.75V2.104a.25.25 0 0 1 .427-.177ZM7.75 4a.75.75 0 0 1 .75.75v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5A.75.75 0 0 1 7.75 4Z"/>
                             </svg>
-                            3.44k hours played
+                            3.46k hours played
                         </div>
                     </section>
                 </div>
@@ -1454,15 +1459,15 @@
                     </h2>
                     <div class="medias largeable-flex-wrap">
                         <div class="media largeable-width-half">
-                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAGwAAAwADAQEAAAAAAAAAAAAABAUGAgMHAQD/xAAwEAACAQQBAwMBBwQDAAAAAAABAgMABAURIQYSMRNBUWEHFCIjMkJxFTVDgVJicv/EABkBAAIDAQAAAAAAAAAAAAAAAAUGAwQHAv/EACYRAAEEAQMDBAMAAAAAAAAAAAEAAgMEEQUSISIxQQYTFFEjMkL/2gAMAwEAAhEDEQA/ABACDsUyx6GbQodbZl80ysImjIIp/k2uGSs4MmzqK3zWLNAeDQcdmQpWrWyhS4t9a51SqW1WO4I+tVWz7TgqvLIXdXha/uH5QbypX9XtUld5CxkuSkd1Gzhu1AP+XxT3rzISS42fH4yVWKxAzMnHaK4xkLmWG57oiJEZQoKjnY8/7oNNrfxX7WJw0707JeizJ0/S6bFA57X8gnRr2SP01CL7HdB9AX73qz2tx+qOMMN/WmN6wQsB5J1RupY+U3d5QW3XdTkMLu6fY+3EjaOjTR8Vpe5Bv+Knsa7Rtw2zVPZZJ4gPUGxUU4dnIQl8zf67LDH3Bs5iJBpzw2/AFAdaXZhlggx2jcTeB59P/sfpR2dytlb2Jdl3dycQoPLt8Vz/ACFw0EMkc8+52HdNNvhUPhR8EUF1G62NuB3TH6e0J96QPf8Aohcpdw2sDRxsWtkJZ2B/FI/uN/FQWauD95ElugN5L+GOMDj6cfNMMxk0iVpzxb+IlPu3zVX9mPQ93cuuby0Z253CjDx8GgFeB1mTd4T/AKtfbpUO3uccI7o7C3GIxou8j/crgaZBxpfbiirqLTsuiR5B+tXRxKxlpHb1JGHb/wCRSm+tI4EMSju2d91PFYNijDY+6ymeaa3KZ5DyvsdZQu2tMx/aQacTR2NjZy3NzKFhjXbqTyf4qWtMpKqj0tKGOiT7ULlkv8lfW0NijXUkDeo0K/5AfaoLkhZGXnhdUKzbM4ieOSgsjdFruW8ZDHPINQxvz6Q9n/2KicxkEkRtdxhjJJBPMre4FNOqDeWcrQ5OJ7WRfxOr+e0+AKmMNjpuqsssbKyY+A7ft4JH80nNa+3Lk8ha00waRV4GMBPPs86Wm6myQyN+PSs4TuNHHBIrtkslzaxIiMoVBoKo0NVN4gqLL+n2cZit0Gkb3Jo6yNxASLruZh8/FNVSk2ALKNX1N9+bfnhZ3OTnIPBpLe30jeSaqnW2lj9t6qaykEYc9ponGfpUGsLTvCVWXce0NyjHWxTKO7y3TmXs8pYWrXcFw3pMEHjVKYXVQAxOgd7FUdrn40xi2F7EZIwSyFODs/WubsPyRsbyiNU+yfdcefCQ9dwXPXEqPdQG2ZDxxon6Gn3RXR6Y7FCBQD79w8mvIMnj0J+7W04f9ve2+acnNM0GlARO3jXHNUGVGw9DRgqWzfs2x+R2QFnY2MVhMhuLiJT3fp17UX1RbQxqskDgsw5I+KmsXkYUy0Ml035Rc9zPyBTW8u7eTulkvIpx3HUaDRC+1SkO3DlU4YWyxkBTc15JHLoNv6CtF1csw3JG0Y+TW/I38cJIx8HaD5L80kkdnk72k2/x7USiZtbkrhg2DYV//9k=" alt="" />
+                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAHAAAAgMAAwEAAAAAAAAAAAAABQYCBAcAAwgB/8QALhAAAQMDAwMDAwMFAAAAAAAAAQIDBAAFEQYSITFBURMiYQcyUhUjgRRCcZGh/8QAGQEAAwEBAQAAAAAAAAAAAAAAAgQFBgMH/8QAJREAAgICAQQBBQEAAAAAAAAAAQIAAwQRIQUSEzFRIkJhcYHB/9oADAMBAAIRAxEAPwD07kVArSgHcdo+a4VfHHms31Rf5Fuvb6CveyEA7RWOtv7BscwrbPGu9Rb1a6uLqR5bJB7jir9n1Oy5sbnDbnj1OgFJ171Q7dpWNiENg4I2+7/dVo7TroylBDZPBNR3pLNvXvmVMQtk1jS8zZmG2pDXqMqC09lg8V2f0hOFDj5PesttVznWl1PouKCc8hXIP8UfueuZLkZLcZn038crIyK4+MA6PuG9bo2iOYx3edDtTZMx0Jc6hvPJpBvWoJF1UWW0emx2yOTUY1lut43SVMvPpzkqPNFrXYVJV70FJHUGhsdaR3GDNTizVEYWOfNCtS6Zi31pa2z6ckjG/tVkuoYTucWEI8mqjd/bclojxUle449QdKPHyyFAsM520B/QmNav08mwXhUNpW8hAWV9smgsW6Ow14Udzfitc19ZZFzvSXG28pCBuX2FJl7sFqZjekXg/K8tnATT1Lk2EEbEtdLArVRWNkyrFnNS0+z78fYetMWk12hM0fqaSpefuJ9o/ilNhpiCzhCglPdZoTctQoQC3EGVfnTRpDn1K+VRVZXq7iem4rjBjBUT0/RI42DFQeYZcIIQkHvgVn/0buZlaXCH3t7wcUeT2p9LoIHg8VOymXZrcbAmRenxuVEzmKi43d0FYcOPBwKbrPY24qkuvKy6P7RxRRpDTAw0gJ+RX0uZ/wA+anqiKe5uSIZZm4Ezn6n3eREu4jhxSI5SOhwaTC5uG8ZIV3pn+r0F915mWygrI4IFI0JLrTf7qxhfG3xV3GbvqDCanpLA0hVH7lHUsSTIQXIqydo9zY7il+BClTXQkIIV0xinUrBG3lPgmiWj7hBY1GxGfZStx87EkdAfNMPe1dZKj1C6hikKbVMYfprpmXbEB1alJSecdq0krGPkV0bgkYRhIHiolZJx281j8jONzdxmbKljsy0pzGSRjHfsKVr/AKxh24KbYUH3x+B6UiXzVs65/thZab7hPBpdLhycnJPc1Zx+m/dcd/iX8TogH1Xn+Qteb3Murm6QshOeEDihTz6W0bnFgJH/AChN1vUa3pI373fxzzSrJur9wd92U+AKt1YxI4GgI9fm0Yg8aDn4H+xinXrcS2z9o71PTge/V477e4lKs7j2qrZbM9JUFuJwk1pmmtPYUMIwnHWlszLroQgfHMh35b277o72K4qksAL646mixVVCJDRGbAT2q1npXn2TarOTX6ioWf/Z" alt="" />
                             <div class="about">
-                                <div class="name">Draw &amp; Guess</div>
+                                <div class="name">Dancing Line</div>
                                 <div class="infos">
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
                                         </svg>
-                                        Casual, Indie
+                                        Casual
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -1470,7 +1475,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        13 hours played
+                                        21 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -1478,7 +1483,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 1 Jun 2026
+                                        Last played on 3 Jun 2026
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -1487,7 +1492,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            0 / 29 achievements unlocked
+                                            12 / 67 achievements unlocked
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAABQEEBgcI/8QAKhAAAQQBAgMHBQAAAAAAAAAAAQIDBBEABRITITEiQWFicYGhMkRywdH/xAAYAQACAwAAAAAAAAAAAAAAAAACBQADBP/EABwRAAICAwEBAAAAAAAAAAAAAAECAAMREiFBMf/aAAwDAQACEQMRAD8A9KxdQLv1JTZPcemXQ9Yvb85iIerMpN8VNeuKta9F2c3U3mbaTMU1bUHIkRxxpKN4qis8hmJc1mdMnNtuylbdwO1HZTy9MXm63FcQQHUHwJrBJMtC72q3eKFYBPsBunhnMG9XfWtKGyVKUaCQOpyJmrONNOq4hccSm+wLA98CantRVtvRUbnUKsF43Vd+0UPk5MyYxKZUG3H2b+3CApI/EiuQ8w9zivfA+xbXs7BB0mJR9XdLSC5IDa1Doo/z91kO6wpBIVZXZSdxoj2GCwjBLW6W+p0FVcJgHoOXNZ5C/KDlPUXnHJTr1pIUonsdB6eGElx1B9ltrCuxkU5wcT//2Q==" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>The Football - Perfect</div>
+                                                <div class="unlocked">3 Jun 2026</div>
+                                            </div>
+                                            <div class="description">Complete The Football and collect all diamonds and crowns</div>
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQYCBAcD/8QAKRAAAQMDAgUDBQAAAAAAAAAAAQIDEQAEBRIhBhMxQWFRcYEUIjJC0f/EABoBAAEFAQAAAAAAAAAAAAAAAAEAAgMEBQf/xAAbEQACAgMBAAAAAAAAAAAAAAABAgADBBESMf/aAAwDAQACEQMRAD8A1LEWzFywCoAnxRNOOt0/qKTuFcgptkCfinBF4gtAzKlGAnua5g1zltCW67FcSf0LHZIqjlrZlq1UoAA10dv1m7RpKA1JSoq7x6UtcV5IqYcQ2Zjaf5RSxywG4jaujFrC3fJtCpzZKRP3GJ+KN4nOOu36Mc+hbbjzoQ24hMLQVGN/G9ZrY5BKGjzFe8miHDucbZy9m8wiHWFl0lZ1JMbp22iPepEx+SzGYqX8x5ur4sOutKWVLQojVPXzQDO3arhhQ1CPQbUOymWQbxw6usGqV3foVjIF4lSi4ZY0nUnb8piIPSJ7Uyip/YBklhP/2Q==" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>The Plains - Perfect</div>
+                                                <div class="unlocked">3 Jun 2026</div>
+                                            </div>
+                                            <div class="description">Complete The Plains and collect all diamonds and crowns</div>
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <div>
+                                            <div class="description ellipsis">+10 others...</div>
                                         </div>
                                     </div>
                                 </div>
